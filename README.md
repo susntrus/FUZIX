@@ -1,3 +1,6 @@
+** SIMPLIFYING SOUCE CODE FOR EDUCATIONAL PURPOSES **
+JPChoi in NSHC & Dabitsoft just started simplifying source code as a working item in underCtaning at May 30, 2025 
+
 ** ENGINEERING WORK IN PROGRESS **
 
 The Z80 side of the tree is currently moving to the new compiler including
